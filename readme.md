@@ -1,0 +1,1 @@
+This repository contains a simple example of how to use a Cloudflare worker to serve as a webhook to receive incoming SMS information from Vonage and transmit that to a Telegram chat via a bot. For it to work change TELEGRAM_BOT_TOKEN and CHAT_ID in worker.js
